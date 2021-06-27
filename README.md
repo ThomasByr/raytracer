@@ -14,7 +14,7 @@ NVidia RTX tech for CPUs but not really. Do not expect huge performances, in fac
 * ``spheres`` and ``planes`` that are the 2 basic shapes available
 * a large ``material`` config for matt of shiny shapes
 * all 16581375 ``colors`` for your rainbow dreams
-* ``option`` tool to toggle shadows, reflection, and more
+* ``option`` tool to toggle shadows, reflections, and more
 
 ## Performances
 
